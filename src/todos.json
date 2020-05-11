@@ -1,0 +1,28 @@
+{
+    "todos":[
+        {
+            "titulo": "Tarea 1",
+            "responsable":"Maria",
+            "descripcion":"lorem impsun",
+            "prioridad":"baja"
+        },
+        {
+            "titulo": "Tarea 2",
+            "responsable":"Carlos",
+            "descripcion":"lorem impsun",
+            "prioridad":"medio"
+        },
+        {
+            "titulo": "Tarea 3",
+            "responsable":"Helen",
+            "descripcion":"lorem impsun",
+            "prioridad":"alto"
+        },
+        {
+            "titulo": "Tarea 4",
+            "responsable":"Jhon",
+            "descripcion":"lorem impsun",
+            "prioridad":"baja"
+        }
+    ]
+}
